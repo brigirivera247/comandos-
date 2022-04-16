@@ -19,17 +19,7 @@ Fundamentos de programación
 
 *curso*
 ***curso ***
-
 - [x] tarea 
-
 ```html 
   <h1>hola mundo </h1>
 ```
-
-
-
-
-
-
-
-
