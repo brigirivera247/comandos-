@@ -15,7 +15,7 @@ Fundamentos de programación
 ~~~
 
 ![ amor ](https://octodex.github.com/yogitocat/) <br>
-[GitHub](https://github.com/) <br>
+[ GitHub ](https://github.com/) <br>
 
 *curso*
 ***curso ***
